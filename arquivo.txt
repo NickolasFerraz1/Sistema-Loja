@@ -1,0 +1,1 @@
+1 | Produto A| Marca A | Categoria A | 10 | 99.99 | Descrição do Produto A | Fornecedor A 
